@@ -27,3 +27,9 @@ snes-esp-firmware and snes-pico-firmware are forks from the respective repositor
 ## Conclusion
 
 Adapting the NES RA Adapter for preliminary SNES testing was straightforward. With more time to study the SNES architecture, analyze signals with a logic analyzer, and utilize a more powerful microcontroller with additional GPIOs, it may be possible to develop an SNES version of the NES RA Adapter.
+
+---
+
+If you want to have retroachievements using your real Super Nintendo hardware, you can give a try with RA2SNES (a project from another developer)
+
+- **RA2SNES**: [https://github.com/Factor-64/RA2Snes](https://github.com/Factor-64/RA2Snes) - RA2Snes is a program built using Qt 6.7.3 in C++ and C that bridges the QUsb2Snes webserver & rcheevos client to allow unlocking Achievements on real Super Nintendo Hardware through the SD2Snes USB port.
